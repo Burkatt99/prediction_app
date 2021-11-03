@@ -1,0 +1,18 @@
+.name_inf {
+  width: 60%;
+  margin: 60px 20%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 25px;
+}
+
+.name_inf .ent {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Rubik", sans-serif;
+  padding-right: 10px;
+}
+.name_inf div {
+  padding-bottom: 30px;
+}
